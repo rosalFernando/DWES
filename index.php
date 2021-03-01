@@ -111,63 +111,63 @@ function ultimaVisita()
 
   <h3>Unidad 2.</h3>
         <ul>
-          <li><a href="./ejercicios/ud2TecnologiasServidor/areaCirculo.php">Area Circulo</a></li>
-          <li><a href="./ejercicios/ud2TecnologiasServidor/fichaPersonal.php">Ficha Personal</a></li>
-          <li><a href="./ejercicios/ud2TecnologiasServidor/holaMundo.php">Hola Mundo</a></li>
-          <li><a href="./ejercicios/ud2TecnologiasServidor/info.php">Informacion</a></li>
-          <li><a href="./ejercicios/ud2TecnologiasServidor/operaciones.php">Operaciones 1</a></li>
-          <li><a href="./ejercicios/ud2TecnologiasServidor/operaciones2.php">Operaciones 2</a></li>
-          <li><a href="./ejercicios/ud2TecnologiasServidor/sumaVariables.php">Suma Variables</a></li>
-          <li><a href="./ejercicios/ud2TecnologiasServidor/tipoDatos.php">Tipos de Datos</a></li>
+          <li><a href="./ejercicios/ud2TecnologiasServidor/areaCirculo.php">Area Circulo</a> <a href="https://github.com/rosalFernando/DWES/blob/main/ejercicios/ud2TecnologiasServidor/areaCirculo.php">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud2TecnologiasServidor/fichaPersonal.php">Ficha Personal</a> <a href="https://github.com/rosalFernando/DWES/blob/main/ejercicios/ud2TecnologiasServidor/fichaPersonal.php">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud2TecnologiasServidor/holaMundo.php">Hola Mundo</a> <a href="https://github.com/rosalFernando/DWES/blob/main/ejercicios/ud2TecnologiasServidor/holaMundo.php">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud2TecnologiasServidor/info.php">Informacion</a> <a href="https://github.com/rosalFernando/DWES/blob/main/ejercicios/ud2TecnologiasServidor/info.php">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud2TecnologiasServidor/operaciones.php">Operaciones 1</a> <a href="https://github.com/rosalFernando/DWES/blob/main/ejercicios/ud2TecnologiasServidor/operaciones.php">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud2TecnologiasServidor/operaciones2.php">Operaciones 2</a> <a href="https://github.com/rosalFernando/DWES/blob/main/ejercicios/ud2TecnologiasServidor/operaciones2.php">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud2TecnologiasServidor/sumaVariables.php">Suma Variables</a> <a href="https://github.com/rosalFernando/DWES/blob/main/ejercicios/ud2TecnologiasServidor/sumaVariables.php">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud2TecnologiasServidor/tipoDatos.php">Tipos de Datos</a> <a href="https://github.com/rosalFernando/DWES/blob/main/ejercicios/ud2TecnologiasServidor/tipoDatos.php">Ver Codigo</a></li>
        
         </ul>
 
       <h3>Unidad 3.</h3>
         <ul>
           
-          <li><a href="./ejercicios/ud3Programacion/arrays/mesAnnyo.php">Mes del Año</a></li>
-          <li><a href="./ejercicios/ud3Programacion/arrays/notasAlumnos.php">Notas Alumnos</a></li>
-          <li><a href="./ejercicios/ud3Programacion/arrays/continentes.php">Banderas</a>
-          <li><a href="./ejercicios/ud3Programacion/formularios/message/message.php">Portfolio</a></li>
-          <li><a href="./ejercicios/ud3Programacion/formularios/continentes.php">Banderas Formulario</a></li>
-          <li><a href="./ejercicios/ud3Programacion/arrays/verbos.php">Verbos Irregulares</a></li>
-          <li><a href="./ejercicios/ud3Programacion/formularios/sumaNumeros.php">Suma de Numeros</a></li>
-          <li><a href="./ejercicios/ud3Programacion/formularios/calendario1.php">Calendario</a></li>
-          <li><a href="./ejercicios/ud3Programacion/funcionesPHP/comprobarDNI/formulario.php">CompruebaDNI</a></li>
-          <li><a href="./ejercicios/ud3Programacion/funcionesPHP/factorizarNum/formulario.php">Factoriza Numero</a></li>
-          <li><a href="./ejercicios/ud3Programacion/funcionesPHP/generaNombres/generaNombres.php">Generador de Nombres</a></li>
-          <li><a href="./ejercicios/ud3Programacion/funcionesPHP/muestraEnlaces/enlaces.php">Muestra Enlaces</a></li>
-          <li><a href="./ejercicios/ud3Programacion/funcionesPHP/recursivas/formulario.php">Recursividad</a></li>
+          <li><a href="./ejercicios/ud3Programacion/arrays/mesAnnyo.php">Mes del Año</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud3Programacion/arrays/notasAlumnos.php">Notas Alumnos</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud3Programacion/arrays/continentes.php">Banderas</a>  <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud3Programacion/formularios/message/message.php">Portfolio</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud3Programacion/formularios/continentes.php">Banderas Formulario</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud3Programacion/arrays/verbos.php">Verbos Irregulares</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud3Programacion/formularios/sumaNumeros.php">Suma de Numeros</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud3Programacion/formularios/calendario1.php">Calendario</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud3Programacion/funcionesPHP/comprobarDNI/formulario.php">CompruebaDNI</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud3Programacion/funcionesPHP/factorizarNum/formulario.php">Factoriza Numero</a> <a href="">Ver Codigo</a>></li>
+          <li><a href="./ejercicios/ud3Programacion/funcionesPHP/generaNombres/generaNombres.php">Generador de Nombres</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud3Programacion/funcionesPHP/muestraEnlaces/enlaces.php">Muestra Enlaces</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud3Programacion/funcionesPHP/recursivas/formulario.php">Recursividad</a> <a href="">Ver Codigo</a></li>
         </ul>
 
         <h3>Unidad 4.</h3>
         <ul>
-          <li><a href="./ejercicios/ud4/autentificacion/auth/index.php">Autentificacion</a></li>
-          <li><a href="./ejercicios/ud4/autentificacion/registroAuth/index.php">Registro</a></li>
-          <li><a href="./ejercicios/ud4/coockies/cookieLimitada.php">cookie limitada</a></li>
-          <li><a href="./ejercicios/ud4/coockies/formularioCookie.php">formulario cookie</a></li>
-          <li><a href="./ejercicios/ud4/coockies/ejercicio2/cookie1.php">Ejercicio cookie</a></li>
-          <li><a href="./ejercicios/ud4/ficheros/ejemploClase/form.html">Ficheros</a></li>
-          <li><a href="./ejercicios/ud4/sesiones/agenda/index.php">Agenda</a></li>
-          <li><a href="./ejercicios/ud4/sesiones/buscaminas/index.php">Buscaminas</a></li>
-          <li><a href="./ejercicios/ud4/sesiones/gestionAcademica/index.php">Gestion academica</a></li>
+          <li><a href="./ejercicios/ud4/autentificacion/auth/index.php">Autentificacion</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud4/autentificacion/registroAuth/index.php">Registro</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud4/coockies/cookieLimitada.php">cookie limitada</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud4/coockies/formularioCookie.php">formulario cookie</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud4/coockies/ejercicio2/cookie1.php">Ejercicio cookie</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud4/ficheros/ejemploClase/form.html">Ficheros</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud4/sesiones/agenda/index.php">Agenda</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud4/sesiones/buscaminas/index.php">Buscaminas</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud4/sesiones/gestionAcademica/index.php">Gestion academica</a> <a href="">Ver Codigo</a></li>
         </ul>
       
         <h3>Unidad 5.</h3>
         <ul>
-          <li><a href="./ejercicios/ud5/objetos/autentificacionObjetos/index.php">Autentificacion Objetos</a></li>
-          <li><a href="./ejercicios/ud5/objetos/carritoCompra/index.php">carrito</a></li>
-          <li><a href="./ejercicios/ud5/objetos/mascotas_autoload/index.php">MAscotas autoload</a></li>
+          <li><a href="./ejercicios/ud5/objetos/autentificacionObjetos/index.php">Autentificacion Objetos</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud5/objetos/carritoCompra/index.php">carrito</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud5/objetos/mascotas_autoload/index.php">MAscotas autoload</a> <a href="">Ver Codigo</a></li>
         </ul>
 
         <h3>Unidad 6.</h3>
         <ul>
-          <li><a href="./ejercicios/ud6/CRUDbasico/index.php">CRUD Basico</a></li>
-          <li><a href="./ejercicios/ud6/CRUDPrepare/index.php">CRUD Prepare</a></li>
-          <li><a href="./ejercicios/ud6/CRUDSuperHeroe/index.php">CRUD Superheroe</a></li>
-          <li><a href="./ejercicios/ud6/primeraConexion/index.php">Primera conexion</a></li>
-          <li><a href="./ejercicios/ud6/pruebasingleton/index.php">Singleton</a></li>
-          <li><a href="./ejercicios/ud6/symblog/views/index.twig">Symblog</a></li>
+          <li><a href="./ejercicios/ud6/CRUDbasico/index.php">CRUD Basico</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud6/CRUDPrepare/index.php">CRUD Prepare</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud6/CRUDSuperHeroe/index.php">CRUD Superheroe</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud6/primeraConexion/index.php">Primera conexion</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud6/pruebasingleton/index.php">Singleton</a> <a href="">Ver Codigo</a></li>
+          <li><a href="./ejercicios/ud6/symblog/views/index.twig">Symblog</a> <a href="">Ver Codigo</a></li>
         </ul>
 
 

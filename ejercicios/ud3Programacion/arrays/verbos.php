@@ -1,9 +1,5 @@
 <?php
 
-/**
- * Autor: David Galván Fontalba
- * Fecha: 20 / 10 / 2020
- */
 session_start();
 
 function clearData($cadena)
